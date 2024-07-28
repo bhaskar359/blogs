@@ -42,7 +42,7 @@ input:-webkit-autofill:focus {
 
 .content-header:hover .content-header-link,
 .content-header-link:hover {
-  opacity: 1;
+  opacity: 2;
 }
 
 .linkicon {
